@@ -100,7 +100,7 @@ project/
     └── hmm_model.pkl (trained model)
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
