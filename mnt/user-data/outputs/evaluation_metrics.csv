@@ -1,5 +1,5 @@
 Activity,Number of Samples,Sensitivity,Specificity,Precision
-standing,21,1.0000,0.7183,0.5122
+standing,21,0.9524,0.7324,0.5128
 walking,21,0.0000,1.0000,0.0000
-jumping,29,0.9655,0.9683,0.9333
+jumping,29,1.0000,0.9524,0.9062
 still,21,1.0000,1.0000,1.0000
