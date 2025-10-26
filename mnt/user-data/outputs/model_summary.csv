@@ -1,2 +1,2 @@
 Overall Accuracy,Number of States,Number of Features,Training Samples,Test Samples,Activities,Sampling Rate,Window Size,Window Overlap
-0.7609,4,83,250,92,"['standing', 'walking', 'jumping', 'still']",100 Hz,100,0.5
+0.6392,4,83,245,97,"['standing', 'walking', 'jumping', 'still']",100 Hz,100,0.5
