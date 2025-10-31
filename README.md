@@ -185,3 +185,5 @@ This project demonstrates:
 - Ivan Shema
 
 **Note**: The trained model and all outputs are included in the `outputs/` directory. The complete analysis and discussion are available in the written report.
+
+[REPORT](https://docs.google.com/document/d/1oCYuhRYj1aRkStdrOxEqhYvnKWenDmzNJ3gJfk9p-9o/edit?tab=t.0)
